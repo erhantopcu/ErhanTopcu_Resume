@@ -22,11 +22,4 @@
     <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ViewComponents\About\" />
-    <Folder Include="ViewComponents\Skill\" />
-    <Folder Include="ViewComponents\Service\" />
-    <Folder Include="ViewComponents\Portfolio\" />
-  </ItemGroup>
-
 </Project>
